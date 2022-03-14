@@ -1,0 +1,2 @@
+# DDOS
+Basic DDOS script 
